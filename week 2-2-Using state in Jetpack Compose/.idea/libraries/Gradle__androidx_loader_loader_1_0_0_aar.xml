@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.loader:loader:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/ec7a9975e58f46ef9dc1a43de68f0be9/transformed/loader-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/ec7a9975e58f46ef9dc1a43de68f0be9/transformed/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/ec7a9975e58f46ef9dc1a43de68f0be9/transformed/loader-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0/b9ef587f3e46c7fe5b00264989764e43ff45cada/loader-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
