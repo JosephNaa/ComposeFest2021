@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-saveable:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/d618eb38e8d38b7d3ada9533fb5d40de/transformed/jetified-runtime-saveable-1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/d618eb38e8d38b7d3ada9533fb5d40de/transformed/jetified-runtime-saveable-1.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/d618eb38e8d38b7d3ada9533fb5d40de/transformed/jetified-runtime-saveable-1.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable/1.0.4/ec0084ff5e2fb11718572f078d23d23b61c1da4b/runtime-saveable-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

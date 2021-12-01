@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/7faea26b3236019294f1841c2437fab1/transformed/dynamicanimation-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/7faea26b3236019294f1841c2437fab1/transformed/dynamicanimation-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/7faea26b3236019294f1841c2437fab1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation/1.0.0/5c050e29af5033ff5e2d58ccf657ae92fdfbda4a/dynamicanimation-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
