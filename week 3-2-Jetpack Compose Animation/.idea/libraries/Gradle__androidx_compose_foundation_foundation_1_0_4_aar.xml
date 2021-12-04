@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.foundation:foundation:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/8702c25816ba32c8f107a80f32880059/transformed/jetified-foundation-1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/8702c25816ba32c8f107a80f32880059/transformed/jetified-foundation-1.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/transforms-3/8702c25816ba32c8f107a80f32880059/transformed/jetified-foundation-1.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../SSAFY/JDK/zulu8.54.0.21-ca-jdk8.0.292-win_x64/caches/modules-2/files-2.1/androidx.compose.foundation/foundation/1.0.4/52b7530c3021c77cb62a46ff42e042efd6d3cb3f/foundation-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
